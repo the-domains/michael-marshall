@@ -1,14 +1,3 @@
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 0.281362
-  brandColors:
-    - '#0E0E0E'
-    - '#373B42'
-    - '#6D7789'
-    - '#B49B90'
-    - '#F1F0F5'
-  lightness: 0.2383513
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.9874552
 typography_spectrum: 0.218638
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#0E0E0E'
+    - '#373B42'
+    - '#6D7789'
+    - '#B49B90'
+    - '#F1F0F5'
+  rhythmicContrast: 0.281362
+layout_spectrum: 0.9874552
 name: Michael Marshall
