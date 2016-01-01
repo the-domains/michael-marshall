@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Marshall]]></title>
+        <description><![CDATA[Michael Marshall]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 04:26:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<article><h1>test</h1><p>testing post</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/415776e1-dcab-4faa-82d9-f120c1bbd3ea.png"></article>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">7bd9efef-ae9a-4719-8e9f-1f6ec5c0af66</guid>
+            <pubDate>Fri, 01 Jan 2016 04:26:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
